@@ -1,2 +1,3 @@
 e-mail: tatahdejc2018@gmail.com
 celular: 996491087
+Chave SSH: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMQOdIlFyzqhDsfAS+jq1xOshgg2vysn40QJP0MyHhkR tatahdejc2018@gmail.com
